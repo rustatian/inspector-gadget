@@ -1,6 +1,6 @@
 # View Annotated File
 
-![InspectorGadget](/Inspector_Gadget.png?raw=true "IG")
+<img src="/Inspector_Gadget.png" data-canonical-src="/Inspector_Gadget.png" width="200" height="400" />
 
 ## Install
 
