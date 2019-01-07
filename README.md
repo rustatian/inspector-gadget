@@ -1,6 +1,6 @@
 # View Annotated File
 
-![Screenshot](/screenshot.png?raw=true "Screenshot")
+![InspectorGadget](/Inspector_Gadget.png?raw=true "IG")
 
 ## Install
 
