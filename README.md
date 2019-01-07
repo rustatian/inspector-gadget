@@ -1,4 +1,4 @@
-# View Annotated File
+# Inspector Gadget
 
 <img src="/Inspector_Gadget.png" data-canonical-src="/Inspector_Gadget.png" width="200" height="400" />
 
